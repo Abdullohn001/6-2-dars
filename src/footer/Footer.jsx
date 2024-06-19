@@ -8,7 +8,7 @@ function Footer() {
         <p>
           All right Reserved :
           <b>
-            <a href="https://t.me/nazarov_002"> My telegram link !</a>
+            <a href="https://t.me/ID_24806"> My telegram link !</a>
           </b>
         </p>
       </div>
